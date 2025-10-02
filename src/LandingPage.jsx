@@ -159,7 +159,7 @@ export default function LandingPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.3 }}
         >
-          A next‑gen lending market on Injective testnet.
+          Earn on everything
         </motion.p>
 
         <motion.div
